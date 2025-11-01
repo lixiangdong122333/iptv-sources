@@ -46,7 +46,7 @@ Movies,#genre#
 [BD]ช่อง_dove_channel,https://stream1.freetv.fun/d073b0cd5b7c6714ec2f8618fbda4434cf4e454cf5461d50bb4c0a3e385415d9.m3u8
 [HD]eye_tv戏剧_*wj,https://stream1.freetv.fun/69e5b085074b7011d36a68e80e8aa7d28730ba114735e8515da7205848f417d6.m3u8
 [SD]movies_action_(1080p),https://stream1.freetv.fun/4f8f70e25b8b6fa96b5edb15f3b56b895f977016ba5dad2d77c2c8e20a840fd4.m3u8
-[SD]fnx,https://stream1.freetv.fun/d41dc2677bc7b6970b1807a8343a41e0a821e40321a046c6648ade56296e1f7a.m3u8
+[SD]fnx_[geo-blocked],https://stream1.freetv.fun/d41dc2677bc7b6970b1807a8343a41e0a821e40321a046c6648ade56296e1f7a.m3u8
 [HD]us_fxm,https://stream1.freetv.fun/a14a1173d839a223181b550c90435188b2c5d6b5848825663dd3e760a9968416.ctv
 [HD]ca_fxx,https://stream1.freetv.fun/30fcdb7cb81218c3b1557b2d1a140f0f25aec043bdede716edd180166538c849.ctv
 [BD]film_1_premiere_netherlands_=,https://stream1.freetv.fun/3490ea84107b001eff7a49b3dbcf687924cc69dd7b94ae63a91193bf8f7294cd.ctv
@@ -1758,7 +1758,7 @@ Kids,#genre#
 [HD]nick_jr_*wj,https://stream1.freetv.fun/f44d03408b20f22d55c6ff2a65ac9c3c302d8361f6440adef5c23c4569f05515.m3u8
 [VGA]nick_music,https://stream1.freetv.fun/704a87a1ba7007bbd1f674ca9d1f201e5876eea206ef22b5376d9637d312889c.m3u8
 [HD]nicktoons,https://stream1.freetv.fun/1aadfb4cce5a4c7790dcfadf66a8d925177199d56a5c17a4afaec18c8db32271.m3u8
-[SD]okey,https://stream1.freetv.fun/5f99937c504c003619e9ed0df31769f2567b11229b1184f3a0d7e1c1c6b2c865.m3u8
+[SD]okey_[geo-blocked],https://stream1.freetv.fun/5f99937c504c003619e9ed0df31769f2567b11229b1184f3a0d7e1c1c6b2c865.m3u8
 [VGA]pbs_kids,https://stream1.freetv.fun/39da69cdbd141a05cb91f0b3770701642329ce157d5ba7ec6b49c3f983ec4eae.m3u8
 [VGA]retrô_cartoon_1,https://stream1.freetv.fun/4047996590200b13875a76ac30620419612c5139f7996486fa5e0f244df02812.m3u8
 [BD]ric,https://stream1.freetv.fun/d2e766e16d5ba662e38a630c355973520c950e4050d23e884d16433976b10221.m3u8
@@ -2268,15 +2268,7 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV4,http://125.125.236.53:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://125.125.236.53:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-东南卫视,http://125.125.236.53:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://125.125.236.53:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://125.125.236.53:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://125.125.236.53:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 央视高清,#genre#
 CCTV-1_综合,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV-2_财经,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
