@@ -385,7 +385,7 @@
 | 379 | [BD]delfi tv | stream1.freetv.fun | <https://stream1.freetv.fun/86e58f528dd2f7b826e52b36c44035442e8160f2c4236eee6cde54ae7cdb0200.m3u8> |
 | 380 | [HD]english club tv | stream1.freetv.fun | <https://stream1.freetv.fun/891a9ed501c0b515e456df74f6a552d6fc637b5ccc86bae0c02df7f87300e75d.m3u8> |
 | 381 | [SD]epic drama | stream1.freetv.fun | <https://stream1.freetv.fun/77aec2f9b4c4283d60f90ef0867800e08897deae5150eb8c74d449f90aacb06e.m3u8> |
-| 382 | [BD]epirus tv1 | stream1.freetv.fun | <https://stream1.freetv.fun/8c96dacd459275897c50505efcc98eb0fba9651b29bea1fe3c380f42d6725ce0.m3u8> |
+| 382 | [HD]epirus tv1 | stream1.freetv.fun | <https://stream1.freetv.fun/8c96dacd459275897c50505efcc98eb0fba9651b29bea1fe3c380f42d6725ce0.m3u8> |
 | 383 | [BD]epsilon | stream1.freetv.fun | <https://stream1.freetv.fun/8f4cc0f6a176f4d3807be6c35d0a63d092982e9005de983961849691167ac8ec.m3u8> |
 | 384 | [BD]esports max | stream1.freetv.fun | <https://stream1.freetv.fun/9140b3a23802515e0ad7483f470adac3875995243f2836df473c5ffecfb582f5.m3u8> |
 | 385 | [BD]espreso tv | stream1.freetv.fun | <https://stream1.freetv.fun/ab2d6cb9faf306c94e83fca3685d835d20dfd7f0f726c6f2f949fdc2315a7f8d.m3u8> |
@@ -463,7 +463,7 @@
 | 457 | [SD]gulli girl | stream1.freetv.fun | <https://stream1.freetv.fun/52e778bf9f847f7664315ec26f65eda3b193edc4c1e32d45e72e2aac4fec7db6.m3u8> |
 | 458 | [BD]uma tv | stream1.freetv.fun | <https://stream1.freetv.fun/f305e13db6ca1c04374b661b72738bd1a968f3ad457752454de58b02e5f7d436.m3u8> |
 | 459 | [BD]h20 tv | stream1.freetv.fun | <https://stream1.freetv.fun/87a952eac1c5feee6b8b7056bc8c3d19023e9af0a4981fc805a02cdd96bde344.m3u8> |
-| 460 | [BD]HBO @sf | stream1.freetv.fun | <https://stream1.freetv.fun/07b5b9e58dc8612d85539d9906e44700bdb5c7595b906a17c8da8112c28475fa.m3u8> |
+| 460 | [HD]HBO @sf | stream1.freetv.fun | <https://stream1.freetv.fun/07b5b9e58dc8612d85539d9906e44700bdb5c7595b906a17c8da8112c28475fa.m3u8> |
 | 461 | [BD]hbo 2 | stream1.freetv.fun | <https://stream1.freetv.fun/68a84b7b4649a6d1fcf7d4cb17ea155b7eab81ebd2bf4b3aedb9a296e51d88a6.m3u8> |
 | 462 | [SD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/34cc7a8888e5bf09f96a5afb4df92518deb325118844f1acc96a4a7d03cfb5a7.m3u8> |
 | 463 | [HD]bbc comedy | stream1.freetv.fun | <https://stream1.freetv.fun/53d3a3faf0d4268c7e1121f1a87432e958e6a54a88f0709d16368a97dbd1e23a.m3u8> |
@@ -1423,4 +1423,4 @@
 | 1417 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1418 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Mon May 04 2026 10:46:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 04 2026 12:48:03 GMT+0000 (Coordinated Universal Time)**
