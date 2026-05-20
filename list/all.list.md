@@ -232,4 +232,4 @@
 | 226 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.ctv> |
 | 227 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Wed May 20 2026 07:28:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 20 2026 09:20:11 GMT+0000 (Coordinated Universal Time)**
