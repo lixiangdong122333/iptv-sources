@@ -21,8 +21,8 @@ https://stream1.freetv.fun/d3cac51adb5f48c7057cf8a9fdbbbea7b3aec4bc15d2f953a29a8
 https://stream1.freetv.fun/6958843bcfef5b203ef94d0746073323225bf80e0cea9f33cfb05a692396233d.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001945876001_87.png" group-title="新闻",[BD]cctv22
 https://stream1.freetv.fun/a1e4a563ad926dc51213812f55dd8b330c8711af8a6a946d54693bed7ad3a7b9.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="综艺",[BD]cctv-3
-https://stream1.freetv.fun/6289d3d63e4bfe93f53de7ba3ef6e5f13939f16209a01591bb9daca09f464499.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="综艺",[BD]cctv3
+https://stream1.freetv.fun/3be8e8a92b61a4f371c8aa6a87896035286b8e12a5c5204c10a74fa63ebffbe3.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001925822086_33.png" group-title="新闻",[BD]cctv4
 https://stream1.freetv.fun/afe87116896f0b19c95113ae1c1985a58b3d15401bb3b97aaa750083157f033d.m3u8
 #EXTINF:-1 tvg-name="CCTV4 FHD" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="新闻",[SD]cctv4
@@ -455,6 +455,10 @@ https://stream1.freetv.fun/9d273d244bac9e4b04f337140c2d1cd3cd2a6d45e416b21b71077
 https://stream1.freetv.fun/c22b7e44ae8f632c31830fa8212d8ba41195e883cc1f4c6adf7b2ff069037b7a.m3u8
 #EXTINF:-1 tvg-name="西安影影片道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/11/large/20220611231249490826_24.jpg" group-title="其它",[BD]西安影视
 https://stream1.freetv.fun/aab99faea811872797df9493f77cc6d6b3550bb9d2291298f50de555ede377d7.m3u8
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/11/large/20220611224649720469_86.jpg" group-title="新闻",[SD]西安新闻
+https://stream1.freetv.fun/75bad10c1e6e7695a79b787d920a1e07ce6850d9ec82f55eb013b62acc81ee7d.m3u8
+#EXTINF:-1 tvg-name="西安白鸽都市" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_56.jpg" group-title="其它",[SD]西安都市
+https://stream1.freetv.fun/c116c395dc8b06317e572fe490a410ba9cfc499e6dd8f6a8be8a21606c74e012.m3u8
 #EXTINF:-1 tvg-name="西宁新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531230922691320_46.jpg" group-title="新闻",[BD]西宁新闻综合频道
 https://stream1.freetv.fun/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530222246719342_54.jpg" group-title="其它",[BD]西藏影视文化
