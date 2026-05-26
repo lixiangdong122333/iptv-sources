@@ -907,7 +907,7 @@
 | 901 | [BD]omid | stream1.freetv.fun | <https://stream1.freetv.fun/cb71dd369d928aabaf671d6fb2ecb6fce5ed8a7ebdb531df93c7c624dd32e2ed.m3u8> |
 | 902 | [BD]pooya nahal | stream1.freetv.fun | <https://stream1.freetv.fun/de9246fa63eb7d8a97c8a00ababe1b20038404b5431c420394a0d8d2ec25181a.m3u8> |
 | 903 | [SD]islam channel urdu | stream1.freetv.fun | <https://stream1.freetv.fun/c6a4b022a45f825d13027192b2b1e749bf269992059e4f1a20e8444a50009be0.m3u8> |
-| 904 | [BD]istv | stream1.freetv.fun | <https://stream1.freetv.fun/ed815e3db5513af9bcd91c57c42e7fa2df81b19913c22f51a1dd388232b0f618.m3u8> |
+| 904 | [BD]istv | stream1.freetv.fun | <https://stream1.freetv.fun/39b042facc890b746901c7ca33ca5289f29cb4efa0b6b8bbc3200b7f3cd2c403.m3u8> |
 | 905 | [HD]itn | stream1.freetv.fun | <https://stream1.freetv.fun/66bb39c1a1ba2d4b824cc1892ac6d7a01a67aa4d6e00aed2118e61e29716dba0.ctv> |
 | 906 | [VGA]itv | stream1.freetv.fun | <https://stream1.freetv.fun/e4b1e65d395bf4eb99350839482fa28c75e73cedf7cda6ba6a883fb76e33939b.m3u8> |
 | 907 | [SD]di.tv 92 | stream1.freetv.fun | <https://stream1.freetv.fun/80e088cd90d960578f178efd5bd2c727943d1d774bf8f81009d50b2165346ca1.m3u8> |
@@ -2545,4 +2545,4 @@
 | 2539 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 | 2540 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 
-Updated at **Tue May 26 2026 03:20:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 26 2026 05:30:25 GMT+0000 (Coordinated Universal Time)**
