@@ -2161,4 +2161,4 @@
 | 2155 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.m3u8> |
 | 2156 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 
-Updated at **Thu May 28 2026 20:54:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 28 2026 22:37:59 GMT+0000 (Coordinated Universal Time)**
