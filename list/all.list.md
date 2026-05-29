@@ -2138,4 +2138,4 @@
 | 2132 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/7231358b510145c7e360795559c8c999a54700cc2503a465188e211682ce3903.m3u8> |
 | 2133 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 
-Updated at **Fri May 29 2026 20:56:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 29 2026 22:36:48 GMT+0000 (Coordinated Universal Time)**
