@@ -1880,4 +1880,4 @@
 | 1874 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
 | 1875 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 
-Updated at **Thu Jun 04 2026 17:12:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 04 2026 18:59:03 GMT+0000 (Coordinated Universal Time)**
